@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rat91/CLionProjects/Kruskal's algorithm/Edge.h
+string
+-
+
+C:/Users/rat91/CLionProjects/Kruskal's algorithm/ReadWriter.h
+Edge.h
+C:/Users/rat91/CLionProjects/Kruskal's algorithm/Edge.h
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/rat91/CLionProjects/Kruskal's algorithm/main.cpp
+ReadWriter.h
+C:/Users/rat91/CLionProjects/Kruskal's algorithm/ReadWriter.h
+
