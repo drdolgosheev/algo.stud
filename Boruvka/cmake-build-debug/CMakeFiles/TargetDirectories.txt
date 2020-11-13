@@ -1,0 +1,3 @@
+C:/Users/rat91/CLionProjects/Boruvka/cmake-build-debug/CMakeFiles/Boruvka.dir
+C:/Users/rat91/CLionProjects/Boruvka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rat91/CLionProjects/Boruvka/cmake-build-debug/CMakeFiles/rebuild_cache.dir

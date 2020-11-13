@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rat91/CLionProjects/Deijkstra algorithm/Edge.h
+string
+-
+
+C:/Users/rat91/CLionProjects/Deijkstra algorithm/ReadWriter.h
+Edge.h
+C:/Users/rat91/CLionProjects/Deijkstra algorithm/Edge.h
+iostream
+-
+fstream
+-
+vector
+-
+
+C:/Users/rat91/CLionProjects/Deijkstra algorithm/main.cpp
+ReadWriter.h
+C:/Users/rat91/CLionProjects/Deijkstra algorithm/ReadWriter.h
+
