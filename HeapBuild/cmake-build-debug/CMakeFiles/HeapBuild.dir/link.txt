@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\HeapBuild.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\HeapBuild.dir/objects.a @CMakeFiles\HeapBuild.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\HeapBuild.dir/objects.a -Wl,--no-whole-archive  -o HeapBuild.exe -Wl,--out-implib,libHeapBuild.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HeapBuild.dir\linklibs.rsp

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rat91/CLionProjects/HeapBuild/ReadWriter.h
+iostream
+-
+fstream
+-
+
+C:/Users/rat91/CLionProjects/HeapBuild/main.cpp
+ReadWriter.h
+C:/Users/rat91/CLionProjects/HeapBuild/ReadWriter.h
+
