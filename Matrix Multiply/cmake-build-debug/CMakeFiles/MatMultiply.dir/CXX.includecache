@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rat91/CLionProjects/Matrix Multiply/Edge.h
+string
+-
+
+C:/Users/rat91/CLionProjects/Matrix Multiply/ReadWriter.h
+Edge.h
+C:/Users/rat91/CLionProjects/Matrix Multiply/Edge.h
+iostream
+-
+fstream
+-
+vector
+-
+
+C:/Users/rat91/CLionProjects/Matrix Multiply/main.cpp
+ReadWriter.h
+C:/Users/rat91/CLionProjects/Matrix Multiply/ReadWriter.h
+algorithm
+-
+climits
+-
+
